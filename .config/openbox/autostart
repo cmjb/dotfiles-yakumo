@@ -1,0 +1,5 @@
+xcompmgr &
+tint2 -c ~/.horizontal-dark-transparent.tint2rc &
+nm-applet &
+conky &
+
